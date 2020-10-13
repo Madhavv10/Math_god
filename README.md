@@ -7,3 +7,5 @@ The Main activity consists of a kind of simple user login in which a name alread
 The play activity is where the game will run with the help of a timer of one minute.
 
 on the finish of game, that is timer, a button for the leaderboard will be visible which will show the ranks of all the participants.
+
+user.java is the class made to store the object of every individual participants data, these objects are stored on firebase database.
